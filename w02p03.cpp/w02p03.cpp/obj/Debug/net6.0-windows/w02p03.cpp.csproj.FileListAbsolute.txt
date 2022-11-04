@@ -1,0 +1,17 @@
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\bin\Debug\net6.0-windows\w02p03.cpp.exe
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\bin\Debug\net6.0-windows\w02p03.cpp.deps.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\bin\Debug\net6.0-windows\w02p03.cpp.runtimeconfig.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\bin\Debug\net6.0-windows\w02p03.cpp.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\bin\Debug\net6.0-windows\w02p03.cpp.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.Form1.resources
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\refint\w02p03.cpp.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\w02p03.cpp.genruntimeconfig.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania NST W\w02p03.cpp\w02p03.cpp\obj\Debug\net6.0-windows\ref\w02p03.cpp.dll

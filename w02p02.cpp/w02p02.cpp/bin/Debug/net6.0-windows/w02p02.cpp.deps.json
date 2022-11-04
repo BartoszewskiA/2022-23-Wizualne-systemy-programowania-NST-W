@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "w02p02.cpp/1.0.0": {
+        "runtime": {
+          "w02p02.cpp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w02p02.cpp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
